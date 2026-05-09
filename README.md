@@ -116,15 +116,12 @@ Full list in [`requirements.txt`](requirements.txt)
 ## 👤 Author
 
 **ShadowFox Data Science Intern**  
+Mrunal Shinde
 Internship Task: Python Visualization Libraries Documentation  
 Libraries: Matplotlib | Seaborn | Jupyter | Pandas | NumPy
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 *⭐ If this guide helped you, consider starring the repository!*
